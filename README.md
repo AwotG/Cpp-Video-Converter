@@ -4,7 +4,6 @@ Program that takes an input mp4 video, and outputs the same format but with one 
 * Sepia
 * Audio only
 * Video only
-
 - [Video of Program being used][In Use]
 - [Example videos converted][Converted video]
 ## Dependencies
