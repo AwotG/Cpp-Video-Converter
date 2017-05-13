@@ -5,6 +5,8 @@ Program that takes an input mp4 video, and outputs the same format but with one 
 * Audio only
 * Video only
 
+- [Video of Program being used][In Use]
+- [Example videos converted][Converted video]
 ## Dependencies
 * Mac OS to use the already compiled .app found in the project folder. Otherwise could compile on your system. 
 * [Static ffmpeg executable.][ffmpeg download] Would need to download the correct static build for your system. 
@@ -43,6 +45,8 @@ Program that takes an input mp4 video, and outputs the same format but with one 
 - [If adding a pause function for currently converted video][pause]
 
 
+[In Use]: https://www.dropbox.com/s/k5qsjp5nt40cirq/Conversion%20Program%20In%20Use.mp4?dl=0
+[Converted video]: https://www.dropbox.com/s/5jsztc24joxcgpg/Examples.zip?dl=0
 [ffmpeg download]: https://ffmpeg.org/download.html
 [pause feature]: https://video.stackexchange.com/questions/17061/is-there-a-way-to-pause-and-resume-ffmpeg-encoding
 [ffmpeg website]: https://ffmpeg.org/
